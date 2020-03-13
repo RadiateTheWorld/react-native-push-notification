@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
+    "url": "git+ssh://git@github.com:RadiateTheWorld/react-native-push-notification.git"
   },
   "dependencies": {
     "@react-native-community/push-notification-ios": "^1.0.1"
